@@ -31,3 +31,4 @@ Route::get('/detail-article/{id}','XpathArticlesController@detail_article');
      /* digunakan untuk menghapus article yang telah tersimpan di database */
 Route::post('/delete-article/{id}', 'XpathArticlesController@delete');
 
+Route::get('/articles-liputan6', 'Liputan6comController@index_liputan6');
