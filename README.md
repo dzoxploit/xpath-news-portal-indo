@@ -14,6 +14,8 @@ https:://localhost:8000/articles-antara-rss-path
 
 https:://localhost:8000/article
 
+https:://localhost:8000/articles-liputan6
+
 https:://localhost:8000/detail-article/({id_nya})
 
 https:://localhost:8000/delete-article/({id_nya})
